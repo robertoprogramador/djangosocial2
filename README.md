@@ -1,7 +1,5 @@
 # djangosocial2
-a-cadastrar usuarios em django
-b-listar os usuarios com foto
-c-filtrar semelhantes por gosto cidade
+ projeto completo site de convenio medico
 
-24/05/2022#primeira publicação arquivos da pasta base DJANGO/NOVAMETADE/NOVAMETADE
-xx/xx/xxxx#segunda publicacao arquivos do app perfis DJANGO/NOVAMETADE/NOVAMETADE/PERFIS
+projeto completo site de convenio medico_rede de medicos com opção de cadastro consulta e atualização de credenciados,
+o projeto possue tambem modulo de cdastro de pacientes mediante orçamento 017-991035602 roberto
